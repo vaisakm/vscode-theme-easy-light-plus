@@ -1,0 +1,32 @@
+{
+    "name": "easy-light-plus",
+    "displayName": "Easy Light+",
+    "description": "Rich colors, easy background and dark text.",
+    "version": "1.0.0",
+    "publisher": "Vaisak",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "icon": "icons/eye.png",
+    "author": {
+        "name": "Vaisak"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/vaisakm/vscode-theme-easy-light-plus/blob/main/README.md",
+    "repository": {
+        "url": "https://github.com/vaisakm/vscode-theme-easy-light-plus.git",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Easy Light+",
+                "uiTheme": "vs",
+                "path": "./themes/Easy Light+-color-theme.json"
+            }
+        ]
+    }
+}
