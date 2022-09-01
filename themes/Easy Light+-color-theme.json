@@ -83,7 +83,7 @@
 		"editor.wordHighlightBackground": "#808080",
 		"editor.wordHighlightStrongBackground": "#50FA7B36",
 		"editor.findMatchBackground": "#E6E6E6",
-		"editor.findMatchHighlightBackground": "#00000040",
+		"editor.findMatchHighlightBackground": "#B6B6B6",
 		"editor.findRangeHighlightBackground": "#E6E6E6",
 		"editor.hoverHighlightBackground": "#808080",
 		"editor.lineHighlightBorder": "#E6E6E6",

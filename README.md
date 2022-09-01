@@ -16,8 +16,6 @@ I needed a light theme having an easy background, font colors with enough richne
  
  
 ### Screenshots:
- 
-![Screenshot](images/screenshot_welcome_page.png)
 
 ![Screenshot](images/screenshot_editor.png)
 
