@@ -74,7 +74,7 @@
 		"tab.activeBorder": "#D2D2D2",
 		"tab.inactiveBackground": "#D2D2D2",
 		"tab.inactiveForeground": "#808080",
-		"editor.background": "#F2F2F2",
+		"editor.background": "#F0F0F0",
 		"editor.foreground": "#000000",
 		"editorLineNumber.foreground": "#555555",
 		"editor.selectionBackground": "#80808060",
