@@ -2,7 +2,7 @@
     "name": "easy-light-plus",
     "displayName": "Easy Light+",
     "description": "Rich colors, easy background and dark text.",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "publisher": "Vaisak",
     "engines": {
         "vscode": "^1.54.0"
